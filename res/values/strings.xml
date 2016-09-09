@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">绘图板</string>
+    <string name="paint_settings">绘画设置</string>
+    <string name="clear_screen">清屏</string>
+    <string name="other_settings">其余操作</string>
+    
+    <string name="paint_color">画笔颜色</string>
+    <string name="color_red">红色</string>
+    <string name="color_orange">橙色</string>
+    <string name="color_yellow">黄色</string>
+    <string name="color_green">绿色</string>
+    <string name="color_cyan">青色</string>
+    <string name="color_blue">蓝色</string>
+    <string name="color_purple">紫色</string>
+    <string name="color_black">黑色</string>
+    <string name="color_gray">灰色</string>
+    <string name="color_white">白色</string>
+    
+    <string name="paint_size">画笔粗细</string>
+    <string name="size_1">极细</string>
+    <string name="size_2">较细</string>
+    <string name="size_3">中</string>
+    <string name="size_4">较粗</string>
+    <string name="size_5">极粗</string>
+    
+    <string name="save_picture">保存图像</string>
+    <string name="change_orientation">旋转屏幕</string>
+    <string name="about">关于</string>
+
+</resources>

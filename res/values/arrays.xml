@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 画笔颜色资源 -->
+    <array name="color_id_arr">
+        <item>@color/red</item>
+        <item>@color/orange</item>
+        <item>@color/yellow</item>
+        <item>@color/green</item>
+        <item>@color/cyan</item>
+        <item>@color/blue</item>
+        <item>@color/purple</item>
+        <item>@color/black</item>
+        <item>@color/gray</item>
+        <item>@color/white</item>
+    </array>
+    
+    <!-- 画笔颜色名字 -->
+    <array name="color_name_arr">
+        <item>@string/color_red</item>
+        <item>@string/color_orange</item>
+        <item>@string/color_yellow</item>
+        <item>@string/color_green</item>
+        <item>@string/color_cyan</item>
+        <item>@string/color_blue</item>
+        <item>@string/color_purple</item>
+        <item>@string/color_black</item>
+        <item>@string/color_gray</item>
+        <item>@string/color_white</item>
+    </array>
+    
+    <!-- 画笔粗细名字 -->
+    <array name="size_name_arr">
+        <item>@string/size_1</item>
+        <item>@string/size_2</item>
+        <item>@string/size_3</item>
+        <item>@string/size_4</item>
+        <item>@string/size_5</item>
+    </array>
+</resources>

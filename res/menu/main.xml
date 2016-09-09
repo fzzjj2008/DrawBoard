@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:title="@string/paint_settings"
+        android:icon="@drawable/paint"
+        android:showAsAction="always|withText" >
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/paint_color"
+                    android:title="@string/paint_color" />
+				<item
+				    android:id="@+id/paint_size"
+				    android:title="@string/paint_size" />
+            </group>
+        </menu>
+    </item>
+    
+    <item
+        android:id="@+id/clear_screen"
+        android:title="@string/clear_screen"
+        android:icon="@drawable/clear"
+        android:showAsAction="always|withText" >
+    </item>
+    
+    <item
+        android:title="@string/other_settings"
+        android:icon="@drawable/settings"
+        android:showAsAction="always|withText" >
+        <menu>
+            <group>
+				    <item
+				        android:id="@+id/save_picture"
+				        android:title="@string/save_picture" />
+				    <item
+				        android:id="@+id/change_orientation"
+				        android:title="@string/change_orientation" />
+				    <item
+				        android:id="@+id/about"
+				        android:title="@string/about" />
+            </group>
+        </menu>
+    </item>
+</menu>
